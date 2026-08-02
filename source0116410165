@@ -34,7 +34,8 @@ local AllowedUsers = {
 "Garresulka47329",
 "Walukblon081",
 "Promnarak7",
-"Zmazx4"
+"Zmazx4",
+"Naswm_khi002"
 }
 
 local Players = game:GetService("Players")
