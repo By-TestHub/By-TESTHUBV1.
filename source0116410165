@@ -54,7 +54,8 @@ local AllowedUsers = {
 "PK_WMGGV0",
 "ROVFF246",
 "Block_spin0936205277",
-""
+"Jvc_555005",
+"Moioes2"
 }
 
 local Players = game:GetService("Players")
